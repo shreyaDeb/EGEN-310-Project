@@ -7,3 +7,4 @@ Our aim for this project:
 
  1. To be able to control the rover designed by our co teammates (Boucher-Bergstedt Caelen, Windhorst Jacob)
  2. To be able to climb the ramp which is filled with water (which is controlled by a water motor to see the water level stop)
+ 3. Coding Part: Develop an autonomous driving system that detects and avoids obstacles using sensors and machine learning algorithms. Integrate humidity sensors to monitor soil moisture levels, ensuring the vehicle adapts to varying terrain conditions.
